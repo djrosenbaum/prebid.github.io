@@ -5,7 +5,7 @@ description: onEvent API
 sidebarType: 1
 ---
 
-This routine allows the page (or module) to create a callback function that's invoked when heading bidding events are fired.
+This routine allows the page (or module) to create a callback function that's invoked when header bidding events are fired.
 
 **Kind**: static method of `pbjs`
 
